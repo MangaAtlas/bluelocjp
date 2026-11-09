@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-    <loc>https://mangaatlas.github.io/bluelocjp/</loc>
+    <loc>https://mangarawatlas.github.io/bluelocjp/</loc>
     <lastmod>2026-11-01</lastmod>
-    <image:image><image:loc>https://mangaatlas.github.io/bluelocjp/manga-covers/blue-lock/1793478225527-________raw___Blue_Lock_Raw__.jpg</image:loc><image:title>blue-lock manga cover</image:title></image:image>
+    <image:image><image:loc>https://mangarawatlas.github.io/bluelocjp/manga-covers/blue-lock/1793478225527-________raw___Blue_Lock_Raw__.jpg</image:loc><image:title>blue-lock manga cover</image:title></image:image>
   </url>
-<url><loc>https://mangaatlas.github.io/bluelocjp/manga.html?slug=blue-lock</loc></url>
+<url><loc>https://mangarawatlas.github.io/bluelocjp/manga.html?slug=blue-lock</loc></url>
   <url>
-    <loc>https://mangaatlas.github.io/bluelocjp/chapter.html?slug=blue-lock-raw-jap-367</loc>
+    <loc>https://mangarawatlas.github.io/bluelocjp/chapter.html?slug=blue-lock-raw-jap-367</loc>
     <lastmod>2026-11-03</lastmod>
     <image:image><image:loc>https://raw.githubusercontent.com/MangaAtlas/bluelocjp/main/chapter-images/blue-lock/chapter-blue-lock-raw-jap-367/.upload-1793727675595/0001-12-37-08-29206347094579490.webp</image:loc></image:image>
     <image:image><image:loc>https://raw.githubusercontent.com/MangaAtlas/bluelocjp/main/chapter-images/blue-lock/chapter-blue-lock-raw-jap-367/.upload-1793727675595/0002-12-37-10-29206349112310533.webp</image:loc></image:image>
@@ -31,7 +31,7 @@
     <image:image><image:loc>https://raw.githubusercontent.com/MangaAtlas/bluelocjp/main/chapter-images/blue-lock/chapter-blue-lock-raw-jap-367/.upload-1793727675595/0020-12-37-49-29206387534921792.webp</image:loc></image:image>
   </url>
   <url>
-    <loc>https://mangaatlas.github.io/bluelocjp/chapter.html?slug=blue-lock-raw-eng-367</loc>
+    <loc>https://mangarawatlas.github.io/bluelocjp/chapter.html?slug=blue-lock-raw-eng-367</loc>
     <lastmod>2026-11-03</lastmod>
     <image:image><image:loc>https://raw.githubusercontent.com/MangaAtlas/bluelocjp/main/chapter-images/blue-lock/chapter-blue-lock-raw-eng-367/.upload-1793728083312/0001-12-37-08-29206347094579490.webp</image:loc></image:image>
     <image:image><image:loc>https://raw.githubusercontent.com/MangaAtlas/bluelocjp/main/chapter-images/blue-lock/chapter-blue-lock-raw-eng-367/.upload-1793728083312/0002-12-37-10-29206349112310533.webp</image:loc></image:image>
