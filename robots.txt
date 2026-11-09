@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /bluelocjp/admin/
 
-Sitemap: https://mangaatlas.github.io/bluelocjp/sitemap.xml
+Sitemap: https://mangarawatlas.github.io/bluelocjp/sitemap.xml
